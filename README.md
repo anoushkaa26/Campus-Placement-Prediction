@@ -1,4 +1,4 @@
-<h1>Campus Placement Prediction Web App</h1>
+<h1><b>Campus Placement Prediction Web App</b></h1>
 
 <h3>Overview</h3>
 
